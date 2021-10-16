@@ -20,7 +20,6 @@ int main()
        }
        orginalCount = digitCount;
     }
-    printf("%d\n",orginalCount);
     switch(orginalCount){
         case 1:
             printf("A");
